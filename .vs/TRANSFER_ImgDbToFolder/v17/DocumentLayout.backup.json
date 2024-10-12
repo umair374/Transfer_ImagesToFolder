@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMAIR\\source\\repos\\TRANSFER_ImgDbToFolder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC8D17A-7261-443B-ABCE-68D587D15237}|TRANSFER_ImgDbToFolder\\TRANSFER_ImgDbToFolder.csproj|c:\\users\\umair\\source\\repos\\transfer_imgdbtofolder\\transfer_imgdbtofolder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC8D17A-7261-443B-ABCE-68D587D15237}|TRANSFER_ImgDbToFolder\\TRANSFER_ImgDbToFolder.csproj|solutionrelative:transfer_imgdbtofolder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UMAIR\\source\\repos\\TRANSFER_ImgDbToFolder\\TRANSFER_ImgDbToFolder\\Program.cs",
+              "RelativeDocumentMoniker": "TRANSFER_ImgDbToFolder\\Program.cs",
+              "ToolTip": "C:\\Users\\UMAIR\\source\\repos\\TRANSFER_ImgDbToFolder\\TRANSFER_ImgDbToFolder\\Program.cs",
+              "RelativeToolTip": "TRANSFER_ImgDbToFolder\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMrwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:52:00.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
